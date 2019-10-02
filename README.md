@@ -1,10 +1,8 @@
-# iam_rich
+# I Am Rich
 
-A new Flutter application.
+A Flutter application to play around with layout widgets.
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
